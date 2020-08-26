@@ -15,8 +15,7 @@
 
 <hr>
 <h3>My github stats :</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justpowerful&show_icons=true&theme=tokyonight" alt="justpowerful" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justpowerful&layout=compact&hide=html&theme=tokyonight" alt="justpowerful" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=justpowerful&show_icons=true&theme=tokyonight" alt="justpowerful" /></p>
 
 <hr>
 <h3>Social media :</h3>
