@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justpowerful" alt="justpowerful" /> </p>
 
 - 🌱 I’m currently learning **nodejs, web development, expressjs, sql**
-
-- 📫 How to reach me **ahmedaminedoudech@gmail.com**
-
 - ⚡ Fun fact **i sometimes use my phone to code**
 
 <hr>
