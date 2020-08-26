@@ -12,7 +12,9 @@
 
 <hr>
 <h3>My github stats :</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=justpowerful&show_icons=true&theme=tokyonight" alt="justpowerful" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=justpowerful&show_icons=true&theme=tokyonight" alt="justpowerful" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustPowerful&layout=compact&theme=tokyonight" />
+</p>
 
 <hr>
 <h3>Social media :</h3>
