@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JustPowerful Ahmed Amine Doudech</h1>
+<h1 align="center">Call me JustPowerful 😇</h1>
 <h3 align="center">A computer science student from tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justpowerful" alt="justpowerful" /> </p>
