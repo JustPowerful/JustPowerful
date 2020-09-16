@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justpowerful" alt="justpowerful" /> </p>
 
-<h3>My aims :</h3>
 - 🌱 I’m currently learning **nodejs, web development, expressjs, sql**
+
 - ⚡ Fun fact **i sometimes use my phone to code**
 
 <hr>
