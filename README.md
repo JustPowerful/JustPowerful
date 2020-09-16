@@ -24,6 +24,6 @@
 </p>
 
 <hr>
-<center>
+<div align="center">
   <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-</center>
+</div>
