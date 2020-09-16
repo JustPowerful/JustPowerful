@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250">
+  <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400">
 </div>
 
 <h2 align="center">Welcome to JustPowerful's github 😇</h2>
