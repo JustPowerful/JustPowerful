@@ -1,8 +1,12 @@
-<h1 align="center">Call me JustPowerful 😇</h1>
-<h3 align="center">A computer science student from tunisia</h3>
+<div align="center">
+  <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250">
+</div>
+
+<h2>Welcome to JustPowerful's github 😇</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justpowerful" alt="justpowerful" /> </p>
 
+<h3>My aims :</h3>
 - 🌱 I’m currently learning **nodejs, web development, expressjs, sql**
 - ⚡ Fun fact **i sometimes use my phone to code**
 
@@ -24,6 +28,4 @@
 </p>
 
 <hr>
-<div align="center">
-  <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300">
-</div>
+
