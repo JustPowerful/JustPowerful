@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300">
 </div>
 
-<h1 align="center">Welcome to JustPowerful's github 😇</h1>
+<h1 align="center"><span style="font-weight: 200">Welcome to </span>JustPowerful's github 😇</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justpowerful" alt="justpowerful" /> </p>
 
