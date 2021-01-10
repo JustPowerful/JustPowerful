@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JustPowerful?tab=repositories](https://github.com/JustPowerful?tab=repositories)
 
-- 📝 I somtimes write articles on [http://justpowerful.rf.gd/blog/](http://justpowerful.rf.gd/blog/)
+- 📝 I sometimes write articles on [http://justpowerful.rf.gd/blog/](http://justpowerful.rf.gd/blog/)
 
 - 📄 More info at [http://justpowerful.rf.gd/](http://justpowerful.rf.gd/)
 
