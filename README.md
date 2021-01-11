@@ -3,9 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justpowerful&label=Profile%20views&color=fff700&style=flat" alt="justpowerful" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justpowerful" alt="justpowerful" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/justpowerfulme" target="blank"><img src="https://img.shields.io/twitter/follow/justpowerfulme?logo=twitter&style=for-the-badge" alt="justpowerfulme" /></a> </p>
+
+<hr>
+<h3>Donation:</h3>
+
+<a href="https://www.buymeacoffee.com/justpowerful" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<hr>
+
 
 - 🌱 I’m currently learning **Web development, Game development, Linux..**
 
