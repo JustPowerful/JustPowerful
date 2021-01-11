@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justpowerful&label=Profile%20views&color=fff700&style=flat" alt="justpowerful" /> </p>
 
-- 🌱 I’m currently learning **Web development, Game development, Linux..**
-
-- 👨‍💻 All of my projects are available at [https://github.com/JustPowerful?tab=repositories](https://github.com/JustPowerful?tab=repositories)
 
 - 📝 I sometimes write articles on [http://justpowerful.rf.gd/blog/](http://justpowerful.rf.gd/blog/)
 
