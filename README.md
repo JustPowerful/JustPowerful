@@ -24,9 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justpowerful&" alt="justpowerful" /></p>
 
-
-<hr>
 <h3>Donation:</h3>
 
 <a href="https://www.buymeacoffee.com/justpowerful" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-<hr>
+
