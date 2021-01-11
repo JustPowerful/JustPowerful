@@ -3,17 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justpowerful&label=Profile%20views&color=fff700&style=flat" alt="justpowerful" /> </p>
 
-
-
-<p align="left"> <a href="https://twitter.com/justpowerfulme" target="blank"><img src="https://img.shields.io/twitter/follow/justpowerfulme?logo=twitter&style=for-the-badge" alt="justpowerfulme" /></a> </p>
-
-<hr>
-<h3>Donation:</h3>
-
-<a href="https://www.buymeacoffee.com/justpowerful" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-<hr>
-
-
 - 🌱 I’m currently learning **Web development, Game development, Linux..**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JustPowerful?tab=repositories](https://github.com/JustPowerful?tab=repositories)
@@ -37,3 +26,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justpowerful&show_icons=true&locale=en" alt="justpowerful" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justpowerful&" alt="justpowerful" /></p>
+
+
+<hr>
+<h3>Donation:</h3>
+
+<a href="https://www.buymeacoffee.com/justpowerful" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<hr>
